@@ -1,6 +1,15 @@
 .DS_STORE
 
-/dist/
+.angular-cli.json
+.editorconfig
+karma.conf.js
+package.json
+protractor.conf.js
+tsconfig.json
+tslint.json
+src/
+e2e/
+dist/
 bazel-*
 e2e_test.*
 node_modules
